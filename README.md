@@ -228,10 +228,4 @@ Requires WebGL 1.0+ (virtually all modern devices).
 
 ---
 
-## 📝 License
-
-MIT — do whatever you want with it. Jai Hind! 🇮🇳
-
----
-
 *Built with ❤️ and chai ☕*
